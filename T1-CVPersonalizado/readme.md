@@ -7,6 +7,6 @@ npm install
   npm start: node .
 
   
-dependecias 
+dependecias:
 
   - SASS
