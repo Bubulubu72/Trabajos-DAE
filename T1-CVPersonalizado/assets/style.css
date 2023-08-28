@@ -1,0 +1,49 @@
+ul:nth-child(3n+0) {
+  background-color: gray;
+}
+
+ul:nth-child(3n+1) {
+  background-color: gray;
+}
+
+ul:nth-child(3n+2) {
+  background-color: gray;
+}
+
+.mediaColor {
+  background-color: rgb(98, 175, 201);
+}
+.mediaColor i {
+  font-size: 26.4px;
+}
+.mediaColor h6 {
+  font-size: 31.2px;
+}
+
+.colorCardPrymary {
+  background-color: rgb(98, 175, 201);
+}
+@media screen and (max-width: 1024px) {
+  .colorCardPrymary {
+    background-color: rgb(21, 212, 212);
+  }
+}
+@media screen and (max-width: 720px) {
+  .colorCardPrymary {
+    background-color: white;
+  }
+}
+
+.colorCardSecondary {
+  background-color: rgb(109, 231, 123);
+}
+@media screen and (max-width: 1024px) {
+  .colorCardSecondary {
+    background-color: rgb(212, 164, 21);
+  }
+}
+@media screen and (max-width: 720px) {
+  .colorCardSecondary {
+    background-color: white;
+  }
+}
