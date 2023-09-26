@@ -1,6 +1,7 @@
 Este projecto es una tarea para Desarrollo de Aplicaciones y servicios web
 
 Se trata de una app de node en la cual conectamos una api de noticias y realizamos busquedas
+Se realizo el manejo de archivos en formato MVC
 
 utilizamos:
   - Express
