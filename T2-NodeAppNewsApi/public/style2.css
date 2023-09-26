@@ -1,0 +1,46 @@
+hr.rounded {
+    border-top: 8px solid #bbb;
+    border-radius: 5px;
+}
+
+.button {
+    padding: 8px 6px;
+    background-color: lightblue;
+    border: solid 1px #2e7e99;
+    color: black;
+    border-radius: 6px;
+    width: 100px;
+}
+
+h1.my{
+    color: rgb(49, 170, 211);
+}
+
+ul {
+    list-style:none;
+}
+
+.box {
+    margin-bottom: 20px;
+    padding: 10px;
+    background-color: #7d92ce;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+.box_color {
+    margin-bottom: 20px;
+    padding: 10px;
+    background-color: #f0f1f3;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+h2 {
+    margin: 0;
+    font-size: 35px;
+}
+
+.center_img {
+    display: block;
+    margin: 0 auto;
+}
