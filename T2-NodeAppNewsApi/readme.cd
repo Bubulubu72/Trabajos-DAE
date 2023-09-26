@@ -1,1 +1,22 @@
+Este projecto es una tarea para Desarrollo de Aplicaciones y servicios web
 
+Se trata de una app de node en la cual conectamos una api de noticias y realizamos busquedas
+
+utilizamos:
+  - Express
+  - Axio
+  - dotenv
+  - express-handlebars
+
+y de dev:
+  - Nodemon
+
+los scripts son : {
+    "start": "node .",
+    "dev": "nodemon .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+
+versiones:
+  - node: 18.5.0
+  - npm: 9.5.0
